@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /root/study/chat/src/server/chatserver.cpp",
+  "file": "/root/study/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /root/study/chat/src/server/chatservice.cpp",
+  "file": "/root/study/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /root/study/chat/src/server/main.cpp",
+  "file": "/root/study/chat/src/server/main.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/study/chat/src/server/db/db.cpp",
+  "file": "/root/study/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /root/study/chat/src/server/model/friendmodel.cpp",
+  "file": "/root/study/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /root/study/chat/src/server/model/groupmodel.cpp",
+  "file": "/root/study/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /root/study/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/root/study/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /root/study/chat/src/server/model/usermodel.cpp",
+  "file": "/root/study/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /root/study/chat/src/server/redis/redis.cpp",
+  "file": "/root/study/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/root/study/chat/build",
+  "command": "/usr/bin/g++ -I/root/study/chat/include -I/root/study/chat/include/server -I/root/study/chat/include/server/db -I/root/study/chat/include/server/model -I/root/study/chat/include/server/redis -I/root/study/chat/thirdparty -g -g -o src/client/CMakeFiles/ChatClient.dir/main.cpp.o -c /root/study/chat/src/client/main.cpp",
+  "file": "/root/study/chat/src/client/main.cpp"
+}
+]
